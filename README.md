@@ -1,4 +1,4 @@
-# Deep Learning Repository
+# Deep Learning
 
 This repository contains a collection of Jupyter Notebooks demonstrating various Deep Learning concepts, algorithms, and architectures using TensorFlow and Keras. The projects range from simple neural networks for binary classification to more complex Convolutional Neural Networks (CNNs) for image classification, Recurrent Neural Networks (RNNs) for sequence data, and Natural Language Processing (NLP) tasks.
 
